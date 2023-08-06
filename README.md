@@ -1,2 +1,2 @@
-# elnverse.github.io
-ELN Public Website
+# ELN
+ELN website source code
